@@ -2,3 +2,5 @@ git clone git@github.com:nordine-frizi/git-begins.git
 git add . ou git add [Nom du fichier]
 git commit -m "git jour1"
 git push
+
+git pull
