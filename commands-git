@@ -1,6 +1,8 @@
-git clone git@github.com:nordine-frizi/git-begins.git
-git add . ou git add [Nom du fichier]
-git commit -m "git jour1"
-git push
+Cloner le repository de gythub vers ta console : git clone git@github.com:nordine-frizi/git-begins.git
+Ajouter le fichier à la commit (d'attente) : git add . ou git add [Nom du fichier]
+sauvegarder le fichier dans git local (console) : git commit -m "git jour1"
+La branch sur laquelle on est (main ou branch) est poussé de ta console vers github : git push 
 
-git pull
+envoeyr la Branch de github vers la console (git local) : git pull 
+Créer un branch : git branch [nom de la branch]
+Passer sur la branch pour travailler dessus : git switch [nom de la branch]
